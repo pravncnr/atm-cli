@@ -1,0 +1,17 @@
+{
+  "name": "atm-cli",
+  "version": "1.0.0",
+  "description": "CLI application for ATM simulation",
+  "main": "index.js",
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.0.0"
+  }
+}
